@@ -1,7 +1,10 @@
-class ApplicationController < ActionController::Base
+class WelcomeController < ActionController::Base
 
   
   
   def index
+    
   end
+  
+  
 end
